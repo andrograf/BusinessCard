@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="Name">Samuel Brannen</string>
+    <string name="title">senior developer</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="example_number">+36 00 16 32 63 07</string>
+    <string name="email_address">email address</string>
+    <string name="example_email">samuel.brannen@gamil.com</string>
+    <string name="linkedin_name">LinkedIn</string>
+    <string name="example_linkedin_name">\@Samuel.Branner</string>
+</resources>
